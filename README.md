@@ -1,6 +1,6 @@
 ### Oi, tudo bem? 👋😄
 
-- 🔭 Estou trabalhando como QA engineer na Solfacil.
+- 🔭 Estou trabalhando como Engenheira de Qualidade Senior na Solfacil.
 - 🌱 Atualmente, estou aprendendo mais sobre autodesenvolvimento, humanidade, agilidade e aplicabilidade da engenharia de software.
 - 👯 Estou procurando colaborar com a transformação de mentalidade dos apaixonados por tecnologia como eu, em olhar os problemas da humanidade com mais empatia e objetividade, e com isso entregar mais valor e qualidade em suas soluções digitais.
 - 🤔 Qualquer ajuda com estudos de casos para colocar em prática toda a minha experiência e validar os conceitos que venho adiquirindo ao longo de 9 anos de carreira é bem vinda.
